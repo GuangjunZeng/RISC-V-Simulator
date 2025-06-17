@@ -1,4 +1,4 @@
-# CSC3050 2025 Spring Project 3
+# Project3
 
 This is a forked version of Hao He's [RISC-V Simulator](https://github.com/hehao98/RISCV-Simulator). In this repository, using pages to manage memory is disabled.
 
