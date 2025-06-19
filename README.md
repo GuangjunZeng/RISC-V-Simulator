@@ -1,15 +1,7 @@
-# Project3
-
-This is a forked version of Hao He's [RISC-V Simulator](https://github.com/hehao98/RISCV-Simulator). In this repository, using pages to manage memory is disabled.
-
-For project details, please refer to the PDF on BlackBoard.
-
 ## Project Compilation
 
 ```bash
-# Clone the project
-git clone https://github.com/EnderturtleOrz/CSC3050-2025-Spring-Project-3.git
-cd CSC3050-2025-Spring-Project-3
+
 
 # Make a build folder
 mkdir build
